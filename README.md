@@ -14,3 +14,12 @@ https://jupyter.org/install
 ---
 
 # Día 2
+
+# <font color = red>Ejercicio:<font>
+## Realiza una tabla con el siguiente contenido
+
+### Ir a la sección "child terms" que muestra una tabla con términos descendientes directos de [GO:0034599](https://www.ebi.ac.uk/QuickGO/term/GO:0034599) 
+https://www.ebi.ac.uk/QuickGO/term/GO:0034599
+    
+---
+---
