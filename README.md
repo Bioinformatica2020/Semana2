@@ -24,7 +24,7 @@ Para quienes tuvieron este error porfavor seguir estos pasos, así fue que se so
 
 2. después de desinatalar Python, dirigirse por la siguiente ruta para borrar la carpeta llamada Python.
 
-Disco local C > Users > Nombre del equipo^^ > AppData** > Local > `Python`
+Disco local C > Users > Nombre del equipo^^ > AppData** > Local > Programs > `Python`
 
 `El directorio llamado Python es el que tienen que borrar para evitar conflictos con la nueva instalación.`
 
