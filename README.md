@@ -52,4 +52,5 @@ No olviden `Add to PATH`
 
 <img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/corregido.png" width = 80%>
 
-Si tienen dudas envíenme fotos de los errores al correo o preguntarle a Fernanda Cerón en el W002, ella ya logró correr jupyter localmente y abrir las bitácoras electrónicas y correr lo de Markdown.
+Si tienen dudas envíenme fotos de los errores al correo o preguntarle a Fernanda Cerón en el W002, ella ya logró correr jupyter localmente y abrir las bitácoras electrónicas.
+Intenten reproducir lo que se hizo con Markdown.
