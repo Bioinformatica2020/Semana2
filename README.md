@@ -14,7 +14,7 @@ https://jupyter.readthedocs.io/en/latest/install.html
 ---
 
 ## Corrección de error
-Para quienes tuvieron este error porfavor seguir estos pasos, así fue que solucióno este error y funcionó Jupyter adecuedamente.
+Para quienes tuvieron este error porfavor seguir estos pasos, así fue que se solucióno y jupyter funcionó adecuedamente.
 
 <img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/error.png" width = 80%>
 
