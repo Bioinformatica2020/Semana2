@@ -4,13 +4,13 @@
 ---
 
 # Día 1
-## **Material:**
-* ### Presentación, Instalación de Jupyter
-https://jupyter.org/install
-* ### Bitácora para manejo de Markdown
-* ### Bitácora para manejo de Directorios y archivos
+### **Material:**
+* #### Presentación, Instalación de Jupyter
+https://jupyter.readthedocs.io/en/latest/install.html
+* #### Bitácora para manejo de Markdown
+* #### Bitácora para manejo de Directorios y archivos
 
-
+## Corrección de error
 Para quienes tuvieron este error porfavor seguir estos pasos, así fue que solucióno este error y funcionó Jupyter adecuedamente.
 
 <img src="https://raw.githubusercontent.com/Bioinformatica2020/Anexos/master/error.png" width = 80%>
